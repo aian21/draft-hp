@@ -20,7 +20,7 @@
     /* Floating Bottom Navbar Frame */
     .bottom-frame {
       position: fixed;
-      bottom: 25px;
+      bottom: 30px;
       left: 50%;
       transform: translateX(-50%);
       border-radius: 25px;
