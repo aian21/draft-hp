@@ -25,6 +25,8 @@
       transform: translateX(-50%);
       border-radius: 25px;
       padding: 10px 15px;
+
+         
       display: flex;
       align-items: center;
       z-index: 1000;
