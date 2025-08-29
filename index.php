@@ -15,7 +15,7 @@
 
     /* Logo */
     .logo { text-align: center; margin: 10px 0 20px; }
-    .logo img { width: 140px; height: auto; }
+    .logo img { width: 140px; height: auto; }    
 
     /* Floating Bottom Navbar Frame */
     .bottom-frame {
